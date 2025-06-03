@@ -1,3 +1,6 @@
+#
+#   I think rentlinx took their site down so this doesn't work anymore.
+#
 import requests
 from bs4 import BeautifulSoup
 
